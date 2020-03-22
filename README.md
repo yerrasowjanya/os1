@@ -1,0 +1,2 @@
+# os1
+The algorithm was developed in the design process for the THE operating system and originally described (in Dutch) in EWD108.[1] When a new process enters a system, it must declare the maximum number of instances of each resource type that it may ever claim; clearly, that number may not exceed the total number of resources in the system. Also, when a process gets all its requested resources it must return them in a finite amount of time.
